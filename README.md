@@ -10,10 +10,14 @@ These projects are entirely agentically engineered: I specify, direct, test, and
 
 | Project | What It Solves | Shape |
 | --- | --- | --- |
-| [Ops Map](https://github.com/shomoD9/ops-map) | Helps a maker resume context across parallel campaigns from a Chrome new tab. | Local-first Chrome extension |
-| [Hunch](https://github.com/shomoD9/hunch) | Turns raw product hunches into clear foundation briefs for ideation, PM discovery, and first experiments. | PM skill library |
+| [d-stack](https://github.com/shomoD9/d-stack) | Agent skills for knowledge-management work: grilling, research, teaching, and writing without AI slop. Latest release: v1.0.1. | Claude Code + Codex skill stack |
+| [standards-memory](https://github.com/shomoD9/standards-memory) | Git-backed fact memory for agent teams: Markdown facts with YAML frontmatter, recall, history, and undo via Git. | Node CLI + MCP |
 | [Parseleaf](https://github.com/shomoD9/parseleaf) | Converts EPUB books into clean Markdown for reading systems, notes, and downstream workflows. | TypeScript library and CLI |
-| [Standard Prompt](https://github.com/shomoD9/standard-prompt) | Saves and reuses high-value prompts directly inside AI chat tools. | Chrome extension |
+| [Hunch](https://github.com/shomoD9/hunch) | Turns raw product hunches into clear foundation briefs for ideation, PM discovery, and first experiments. | PM skill library |
+| [Press](https://github.com/shomoD9/press) | Creative production engine. Essay in, published content out — video and written — across platforms. | Production engine |
+| [Remember](https://github.com/shomoD9/remember) | Cognitive continuity for parallel creative work: per-project breadcrumb trails and next steps on return. | Continuity tool |
+| [Slopinator](https://github.com/shomoD9/slopinator) | Dismisses unwanted YouTube recommendations in one click. | Chrome extension |
+| [Theorization Skills](https://github.com/shomoD9/theorization-skills) | Codex-compatible skills for project clarification, research, theory work, and theory prose. | Codex skill library |
 
 ## Product Areas I Care About
 
@@ -29,9 +33,11 @@ These projects are entirely agentically engineered: I specify, direct, test, and
 - [How Ontology Addresses the Challenges of Vector Embeddings](https://www.moderndata101.com/blogs/how-ontology-solves-vector-embedding-challenges)
 - [Winds of Context](https://windsofcontext.substack.com/)
 - [shomodip.com](https://www.shomodip.com/)
+- [Spec Fiction](https://specfiction.substack.com)
 
 ## Find Me
 
 - Website: [shomodip.com](https://www.shomodip.com/)
+- YouTube: [@armchairdescending](https://www.youtube.com/@armchairdescending)
 - LinkedIn: [linkedin.com/in/shomodip](https://www.linkedin.com/in/shomodip)
 - Email: [letters@shomodip.com](mailto:letters@shomodip.com)
