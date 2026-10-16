@@ -14,7 +14,7 @@ These projects are entirely agentically engineered: I specify, direct, test, and
 | [How Ontology Addresses the Challenges of Vector Embeddings](https://www.moderndata101.com/blogs/how-ontology-solves-vector-embedding-challenges) | Ontology and vector embedding challenges. | Publication |
 | [Winds of Context](https://windsofcontext.substack.com/) | Writing on context. | Substack |
 | [shomodip.com](https://www.shomodip.com/) | Personal website and writing. | Website |
-| [Spec Fiction](https://specfiction.substack.com) | Speculative fiction. | Substack |
+| [Spec Fiction](https://specfiction.substack.com) | Essays on building with AI agents. | Substack |
 | [d-stack](https://github.com/shomoD9/d-stack) | Agent skills for knowledge-management work: grilling, research, teaching, and writing without AI slop. Latest release: v1.0.1. | Claude Code + Codex skill stack |
 | [standards-memory](https://github.com/shomoD9/standards-memory) | Git-backed fact memory for agent teams: Markdown facts with YAML frontmatter, recall, history, and undo via Git. | Node CLI + MCP |
 | [Parseleaf](https://github.com/shomoD9/parseleaf) | Converts EPUB books into clean Markdown for reading systems, notes, and downstream workflows. | TypeScript library and CLI |
