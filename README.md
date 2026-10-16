@@ -6,18 +6,16 @@ I work at the edge where enterprise software becomes useful to AI agents: semant
 
 ## Featured Publications and Projects
 
-These projects are entirely agentically engineered: I specify, direct, test, and refine the work through AI-agent workflows, with no handwritten project code by me.
-
-| Project | What It Solves | Shape |
-| --- | --- | --- |
-| [How Enterprise Ontologies Fail, And How to Stop It](https://www.moderndata101.com/blogs/how-enterprise-ontologies-fail-and-how-to-stop-it) | Enterprise ontology failures and prevention. | Publication |
-| [How Ontology Addresses the Challenges of Vector Embeddings](https://www.moderndata101.com/blogs/how-ontology-solves-vector-embedding-challenges) | Ontology and vector embedding challenges. | Publication |
-| [Winds of Context](https://windsofcontext.substack.com/) | Writing on context. | Substack |
-| [shomodip.com](https://www.shomodip.com/) | Personal website and writing. | Website |
-| [Spec Fiction](https://specfiction.substack.com) | Essays on building with AI agents. | Substack |
-| [d-stack](https://github.com/shomoD9/d-stack) | Agent skills for knowledge-management work: grilling, research, teaching, and writing without AI slop. Latest release: v1.0.1. | Claude Code + Codex skill stack |
-| [standards-memory](https://github.com/shomoD9/standards-memory) | Git-backed fact memory for agent teams: Markdown facts with YAML frontmatter, recall, history, and undo via Git. | Node CLI + MCP |
-| [Parseleaf](https://github.com/shomoD9/parseleaf) | Converts EPUB books into clean Markdown for reading systems, notes, and downstream workflows. | TypeScript library and CLI |
+- [How Enterprise Ontologies Fail, And How to Stop It](https://www.moderndata101.com/blogs/how-enterprise-ontologies-fail-and-how-to-stop-it) | Modern Data 101 | June 2026  
+  Explains six causes of enterprise-ontology decay and practical approaches to maintaining ontology as durable infrastructure for agentic AI.
+- [How Ontology Addresses the Challenges of Vector Embeddings](https://www.moderndata101.com/blogs/how-ontology-solves-vector-embedding-challenges) | Modern Data 101 | June 2026  
+  Examines how ontology-grounded retrieval makes enterprise AI reasoning explicit and auditable across relationship-heavy and multi-hop queries.
+- parseleaf | [npm](https://www.npmjs.com/package/parseleaf) | [GitHub](https://github.com/shomoD9/parseleaf) - Agentically engineered tool that converts books into AI-feedable context.
+- Company of AI agents | [Substack](https://specfiction.substack.com/p/i-built-a-company-of-ai-agents-heres) - An always-on team of AI agents that handles my research, documentation, program management, design, and video work.
+- d-stack | [GitHub](https://github.com/shomoD9/d-stack) - Agentically engineered skill stack for Claude Code and Codex, purpose-built for general knowledge-management work.
+- [standards-memory](https://github.com/shomoD9/standards-memory) - Git-backed fact memory for agent teams: Markdown facts with recall, history, and undo via Git.
+- [Winds of Context](https://windsofcontext.substack.com/) - Writing on context.
+- [shomodip.com](https://www.shomodip.com/) - Personal website and writing.
 
 ## Product Areas I Care About
 
