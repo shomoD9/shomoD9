@@ -1,4 +1,4 @@
-# Soumadip De
+# Soumadip De (Shomo)
 
 Enterprise AI Product Manager building agentic workflows, context systems, developer tools, and governed AI product surfaces.
 
